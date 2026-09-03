@@ -20,7 +20,9 @@ This repository contains a Jupyter Notebook analyzing the flu vaccines administe
 
 ## Analysis Approach
 
-*(To be completed)* — ingestion, validation, cleanup, calculation, and visualization workflow
+- Workflow followed: ingestion, validation, cleanup, calculation and visualization
+- During validation it was determined that each row corresponds to a dispenser/vaccine product combination
+- It was found that one manufacturer recieves 83% of the £80 million spent on vaccine products
 
 ## Project Structure
 
