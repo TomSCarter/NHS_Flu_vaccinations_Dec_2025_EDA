@@ -31,7 +31,7 @@ The service runs from September to March each year and aims to reduce unplanned 
 
 ## Power BI version
 
-The two main charts were rebuilt in Power BI (`Capstone_BI.pbix`), with a comparison of the two versions in my [Power BI training log](https://github.com/TomSCarter/powerbi_training_log/tree/main/01_flu_vaccination_visual).
+The two main charts were rebuilt in Power BI (`flu_vaccinations_dec2025.pbix`), with a comparison of the two versions in my [Power BI training log](https://github.com/TomSCarter/powerbi_training_log/tree/main/01_flu_vaccination_visual).
 
 ## Project structure
 
@@ -39,7 +39,7 @@ The two main charts were rebuilt in Power BI (`Capstone_BI.pbix`), with a compar
 ├── data/                                # Raw CSV goes here (git-ignored)
 ├── notebooks/
 │   └── flu_vaccinations_dec2025.ipynb   # Main analysis notebook
-├── Capstone_BI.pbix                     # Power BI version of the main charts
+├── flu_vaccinations_dec2025.pbix        # Power BI version of the main charts
 ├── .gitignore
 └── README.md
 ```
